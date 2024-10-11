@@ -1,16 +1,26 @@
-## Hi there 👋
+## Olá, eu sou o Caio L Carmo! 👋
 
-<!--
-**CLCarmo/CLCarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sim, o "C" no meu username é de Caio, mas o "L"... bem, esse segredo eu guardo comigo! 😉
 
-Here are some ideas to get you started:
+- 🔭 Atualmente, trabalho como **estagiário em TI**, aprendendo e contribuindo diariamente.
+- 🌱 Estou estudando **Análise e Desenvolvimento de Sistemas (ADS)** e aprofundando meus conhecimentos em **desenvolvimento web completo**, com foco nas seguintes tecnologias:
+  - **HTML5**, **CSS3**, **SASS**, **Bootstrap**, **JavaScript (ES6)**, **PHP**, **Programação Orientada a Objetos (POO)**, **MySQL**, **JQuery**, **MVC**, **APIs**.
+- 😄 **Pronomes**: Ele/Dele
+- ⚡ **Curiosidade**: Sou fã de jogos FPS e curto um bom desafio em games de tiro!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que domino:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+##
+
+### Conecte-se comigo:
+
+<div> 
+  <a href = "mailto:caiolucasprofissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caio-l-carmo-115510185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>

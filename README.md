@@ -1,6 +1,8 @@
-## Olá, eu sou o Caio L Carmo! 👋
+##Olá, eu sou o Caio L Carmo! 👋
 
-Sim, o "C" no meu username é de Caio, mas o "L"... bem, esse segredo eu guardo comigo! 😉
+Se você chegou aqui sem pesquisar meu nome, provavelmente encontrou meu perfil clicando em um link ou ícone do GitHub. Que bom que você veio!
+
+Esse sou eu :
 
 - 🔭 Atualmente, trabalho como **estagiário em TI**, aprendendo e contribuindo diariamente.
 - 🌱 Estou estudando **Análise e Desenvolvimento de Sistemas (ADS)** e aprofundando meus conhecimentos em **desenvolvimento web completo**, com foco nas seguintes tecnologias:

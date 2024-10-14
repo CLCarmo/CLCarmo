@@ -7,8 +7,6 @@ Esse sou eu :
 - 🔭 Atualmente, trabalho como **estagiário em TI**, aprendendo e contribuindo diariamente.
 - 🌱 Estou estudando **Análise e Desenvolvimento de Sistemas (ADS)** e aprofundando meus conhecimentos em **desenvolvimento web completo**, com foco nas seguintes tecnologias:
   - **HTML5**, **CSS3**, **SASS**, **Bootstrap**, **JavaScript (ES6)**, **PHP**, **Programação Orientada a Objetos (POO)**, **MySQL**, **JQuery**, **MVC**, **APIs**.
-- 😄 **Pronomes**: Ele/Dele
-- ⚡ **Curiosidade**: Sou fã de jogos FPS e curto um bom desafio em games de tiro!
 
 ### Tecnologias que domino:
 

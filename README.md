@@ -26,3 +26,13 @@ Sou um profissional de tecnologia apaixonado por resolver problemas e finalista 
   <a href = "mailto:caiolucasprofissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-l-carmo-115510185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+
+### Stats:
+
+<div align="left" style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/clcarmo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clcarmo&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true&cache_seconds=21600"/>
+  </a>
+</div>

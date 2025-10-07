@@ -1,12 +1,14 @@
-##Olá, eu sou o Caio L Carmo! 👋
+# Olá, eu sou o Caio Carmo! 👋
 
-Se você chegou aqui sem pesquisar meu nome, provavelmente encontrou meu perfil clicando em um link ou ícone do GitHub. Que bom que você veio!
+### Analista de Tecnologia | Desenvolvedor de Software em formação
 
-Esse sou eu :
+Sou um profissional de tecnologia apaixonado por resolver problemas e finalista do curso de Análise e Desenvolvimento de Sistemas no IFPA. Com experiência prática em otimização de processos e mentoria de equipas, estou em contínuo desenvolvimento das minhas competências como programador.
 
-- 🔭 Atualmente, trabalho como **estagiário em TI**, aprendendo e contribuindo diariamente.
-- 🌱 Estou estudando **Análise e Desenvolvimento de Sistemas (ADS)** e aprofundando meus conhecimentos em **desenvolvimento web completo**, com foco nas seguintes tecnologias:
-  - **HTML5**, **CSS3**, **SASS**, **Bootstrap**, **JavaScript (ES6)**, **PHP**, **Programação Orientada a Objetos (POO)**, **MySQL**, **JQuery**, **MVC**, **APIs**.
+- 🔭 Atualmente, atuo como **Analista de Tecnologia**, onde aplico a minha capacidade de diagnóstico e resolução de problemas para melhorar sistemas e apoiar utilizadores.
+- 🌱 O meu foco de estudo é o aprimoramento em **Front-end** com JavaScript e React, e também tenho experiência na construção de soluções de **Back-end** com Node.js, Java e SQL.
+- 📫 Você pode entrar em contato comigo através do email **caiolucasprofissional@gmail.com** ou me encontrar no **[LinkedIn](https://www.linkedin.com/in/caio-l-carmo-115510185")**.
+
+---
 
 ### Tecnologias que domino:
 

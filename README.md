@@ -5,7 +5,7 @@
 Sou um profissional de tecnologia apaixonado por resolver problemas e finalista do curso de Análise e Desenvolvimento de Sistemas no IFPA. Com experiência prática em otimização de processos e mentoria de equipas, estou em contínuo desenvolvimento das minhas competências como programador.
 
 - 🔭 Atualmente, atuo como **Analista de Tecnologia**, onde aplico a minha capacidade de diagnóstico e resolução de problemas para melhorar sistemas e apoiar utilizadores.
-- 🌱 O meu foco de estudo é o aprimoramento em **Front-end** com JavaScript e React, e também tenho experiência na construção de soluções de **Back-end** com Node.js, Java e SQL.
+- 🌱 O meu foco de estudo é o aprimoramento em **Front-end** com JavaScript e React. Mas eu também consigo "brincar" na construção de soluções de **Back-end** com Node.js, Java, SQL e o que precisar!!!.
 - 📫 Você pode entrar em contato comigo através do email **caiolucasprofissional@gmail.com** ou me encontrar no **[LinkedIn](https://www.linkedin.com/in/caio-l-carmo-115510185")**.
 
 ---

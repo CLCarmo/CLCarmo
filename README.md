@@ -31,8 +31,7 @@ Sou um profissional de tecnologia apaixonado por resolver problemas e finalista 
 
 ### Stats:
 
-<div align="left" style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/clcarmo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clcarmo&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true&cache_seconds=21600"/>
-  </a>
-</div>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clcarmo&show_icons=true&theme=one_dark_pro"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clcarmo&layout=compact&theme=one_dark_pro"/>
+</p>

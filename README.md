@@ -6,7 +6,7 @@ Sou um profissional de tecnologia apaixonado por resolver problemas e finalista 
 
 - 🔭 Atualmente, atuo como **Analista de Tecnologia**, onde aplico a minha capacidade de diagnóstico e resolução de problemas para melhorar sistemas e apoiar utilizadores.
 - 🌱 O meu foco de estudo é o aprimoramento em **Front-end** com JavaScript e React. Mas eu também consigo "brincar" na construção de soluções de **Back-end** com Node.js, Java, SQL e o que precisar!!!.
-- 📫 Você pode entrar em contato comigo através do email **caiolucasprofissional@gmail.com** ou me encontrar no **[LinkedIn](https://www.linkedin.com/in/caio-l-carmo-115510185")**.
+- 📫 Você pode entrar em contato comigo através do email **caiolucasprofissional@gmail.com** ou me encontrar no **[LinkedIn](https://www.linkedin.com/in/caio-l-carmo-115510185/)**.
 
 ---
 
